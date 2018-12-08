@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nav_menu_title">Menu</string>
+    <string name="nav_bill_title">Bill</string>
+    <string name="nav_sales_title">Sales</string>
+    <string name="nav_setting_title">Setting</string>
+</resources>
